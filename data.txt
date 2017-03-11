@@ -1,0 +1,5 @@
+{
+	"firstname" : "Logan",
+	"lastname" : "Thomas",
+	"class" : "CIDM4385"
+}
